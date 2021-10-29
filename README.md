@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Michael Kaufmann - but most people call me Mike.
 
-<!-- :hammer: I work as the --> 
+- :hammer: I'm the CEO of [Xpirit Germany](https://xpirit.com/mkaufmann)
 - :notebook: I'm the author of the book about [Git for Dummies (in German)](https://www.amazon.com/Git-Dummies-German-Michael-Kaufmann-ebook/dp/B08SJBN9N6)
 - :notebook: I'm writing a new book about Engeneering Velocity and GitHub (in English)
 - :octocat: I'm the organizer of [GitHub Stuttgart](https://www.meetup.com/GitHub-Meetup-Stuttgart/)
