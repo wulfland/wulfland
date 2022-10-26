@@ -2,7 +2,8 @@
 My name is Michael Kaufmann - but most people call me Mike.
 
 - :hammer: I'm the CEO of [Xpirit Germany](https://xpirit.com/mkaufmann)
-- :notebook: I'm the author of the book about [Git for Dummies (in German)](https://www.amazon.com/Git-Dummies-German-Michael-Kaufmann-ebook/dp/B08SJBN9N6)
+- :notebook: I'm the author of the book [Accelerate DevOps with GitHub](https://www.amazon.com/Accelerate-DevOps-GitHub-software-performance-ebook/dp/B0B4DW7NSL)
+- :notebook: I'm the author of the book [Git for Dummies (in German)](https://www.amazon.com/Git-Dummies-German-Michael-Kaufmann-ebook/dp/B08SJBN9N6)
 - :notebook: I'm writing a new book about Engeneering Velocity and GitHub (in English)
 - :octocat: I'm the organizer of [GitHub Meetup](https://www.meetup.com/GitHub-Meetup/)
 - :octocat: I'm one of the co-organizers of [Azure Stuttgart](http://www.azurestuttgart.de/)
