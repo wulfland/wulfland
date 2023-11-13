@@ -12,4 +12,4 @@ My name is Michael Kaufmann - but most people call me Mike.
 - :microphone: I speak about DevOps, Git, Corporate Culture, Agile and Digital Transformation at international events
 - :point_right: See my blog at [writeabout.net](https://writeabout.net) for more details.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mike_kaufmann?style=social)
+![X Follow](https://img.shields.io/twitter/follow/mike_kaufmann?style=social)
