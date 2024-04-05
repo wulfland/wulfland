@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Michael Kaufmann - but most people call me Mike.
 
-- :hammer: I'm the CEO of [Xpirit Germany](https://xpirit.com/mkaufmann)
+- :hammer: I'm the CEO of [Xebia Microsoft Services (XMS) Germany](https://xebia.com/about-us)
 - :notebook: I'm the author of the book [Accelerate DevOps with GitHub](https://www.amazon.com/Accelerate-DevOps-GitHub-software-performance-ebook/dp/B0B4DW7NSL)
+- :notebook: I'm the authot of the book [GitHub Actions in Action](https://www.manning.com/books/github-actions-in-action) (together with @rajbos and @vriesmarcel)
 - :notebook: I'm the author of the book [Git for Dummies (in German)](https://www.amazon.com/Git-Dummies-German-Michael-Kaufmann-ebook/dp/B08SJBN9N6)
-- :notebook: I'm writing a new book about Engeneering Velocity and GitHub (in English)
 - :octocat: I'm the organizer of [GitHub Meetup](https://www.meetup.com/GitHub-Meetup/)
 - :octocat: I'm one of the co-organizers of [Azure Stuttgart](http://www.azurestuttgart.de/)
 - :star: I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001600) for DevOps since 2015
