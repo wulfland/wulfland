@@ -1,3 +1,6 @@
+![image](https://github.com/wulfland/wulfland/assets/5276337/f222d69f-54e8-49ab-8655-9ad0ada080f7)
+
+
 ### Hi there 👋
 My name is Michael Kaufmann - but most people call me Mike.
 
